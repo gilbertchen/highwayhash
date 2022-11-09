@@ -1,4 +1,4 @@
-module github.com/minio/highwayhash
+module github.com/gilbertchen/highwayhash
 
 go 1.15
 
